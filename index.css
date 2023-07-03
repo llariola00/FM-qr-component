@@ -1,0 +1,29 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+main {
+    height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+}
+
+.mn-card {
+    width: 320px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
