@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Frontend Master](https://www.frontendmentor.io/solutions/qr-component-using-bootstrap-63xK-oQrvI)
+-   Live Site URL: [Pages](https://llariola00.github.io/FM-qr-component/)
 
 ## My process
 
